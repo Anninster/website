@@ -1,0 +1,13 @@
+---
+title: "A star algorithm"
+video_number: 51
+date: 2017-1-16
+video_id:
+
+contributions:
+  - title: "A star algoritm in matlab"
+    author:
+      name: "Arsalan Khattak"
+      url: "https://github.com/Anninster/AstarMatlab"
+    source: "https://github.com/CodingTrain/website/new/master/CodingChallenges/CC_051_astar"
+---
